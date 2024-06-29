@@ -1,2 +1,1 @@
-# Parallel-8080-LCD
-A C version of the C++ code for the Adafruit 3.5" touchscreen
+This code has a preloaded image and is set up to run on the parallel side of the https://www.adafruit.com/product/2050.  The image is of the XANA logo from Code Lyoko.
